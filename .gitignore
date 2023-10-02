@@ -1,0 +1,7 @@
+## Ignore auctex template files and folders
+./auto/*
+*.el
+
+
+## Some temporary files
+*~
