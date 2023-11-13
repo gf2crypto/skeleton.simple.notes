@@ -4,4 +4,3 @@
     $aux_dir = 'build';
     $pdf_update_method = 2;
 # latexmkrc ends
- 

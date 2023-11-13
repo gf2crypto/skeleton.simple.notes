@@ -12,6 +12,12 @@ __DESCRIPTION__
 
     https://github.com/gf2crypto/latex-article-cls.git
 
+Для подключения подмодуля выполните в командной строке команду
+
+```bash
+   git submodule add git@github.com:gf2crypto/latex-article-cls.git docclass
+```
+
 
 ## License
 
